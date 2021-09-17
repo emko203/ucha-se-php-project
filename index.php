@@ -21,7 +21,7 @@
             </button>
             <div class="collapse navbar-collapse" id="collapsibleNavbar">
             </div>
-            <form class="form-inline" action="action.php">
+            <form class="form-inline" action="action.php" method="post">
             <input class="form-control mr-sm-2" id="myInput" type="text" placeholder="Име на любимеца">
                 <select class="custom-select mr-3">
                     <option disabled selected value>Изберете вид</option>

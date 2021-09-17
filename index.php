@@ -20,16 +20,8 @@
                 <span class="navbar-toggler-icon"></span>
             </button>
             <div class="collapse navbar-collapse" id="collapsibleNavbar">
-                <!-- <ul class="navbar-nav">
-                <li class="nav-item">
-                    <a class="nav-link" href="index.php">Добавяне</a>
-                </li>
-                <li class="nav-item">
-                    <a class="nav-link" href="#">Резултати</a>
-                </li>
-                </ul> -->
             </div>
-            <form class="form-inline" action="action_page.php">
+            <form class="form-inline" action="action.php">
             <input class="form-control mr-sm-2" id="myInput" type="text" placeholder="Име на любимеца">
                 <select class="custom-select mr-3">
                     <option disabled selected value>Изберете вид</option>
